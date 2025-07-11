@@ -19,43 +19,13 @@
 
 ### 🤝 Let's Connect!
 
-<p>
-  <!-- Email -->
-  <a href="mailto:adeshsrivastava.ofc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/adeshsrivastava-ofc/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <!-- Twitter / X -->
-  <a href="https://x.com/adesh_ofc" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" alt="X (Twitter)"/>
-  </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/adeshsrivastava" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/AdeshSrivastava/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-
-  <!-- PlumProfile -->
-  <a href="https://secure.plum.io/en/p/yj0u9kHINWZUNfEfHskQYA" target="_blank">
-    <img src="https://img.shields.io/badge/Plum_Profile-51247A?style=flat&logo=openaccess&logoColor=white" alt="Plum Profile"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/adeshsrivastava-ofc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeshsrivastava.ofc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeshsrivastava-ofc/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/adesh_ofc)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/adeshsrivastava)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/AdeshSrivastava/)
+[![Plum Profile](https://img.shields.io/badge/Plum_Profile-51247A?style=flat&logo=openaccess&logoColor=white)](https://secure.plum.io/en/p/yj0u9kHINWZUNfEfHskQYA)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adeshsrivastava-ofc)
 
 ---
 
